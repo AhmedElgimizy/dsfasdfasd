@@ -1,4 +1,4 @@
-token=NTM0MTMxNzU5NDYyMzUwODY5.Dx1T3Q.3Y6c2Oziyjt48dimyqBGmDIkrrI
+token=NTM0MTMxNzU5NDYyMzUwODY5.Dx1WQw.J4BJl-F2LS21u9co5MuliALFfNM
 owner=347379495528824832
 prefix= 2
 game= 2play , Minton
