@@ -1,0 +1,7 @@
+token=NTM0MTMxNzU5NDYyMzUwODY5.Dx1NyA.T2tS8XSF_B1nW4K7iew5Z0HKHag
+owner=347379495528824832
+prefix= 2
+game= 2play , Minton
+stayinchannel=true
+songinstatus=true 
+token=https://discordapp.com/api/oauth2/authorize?client_id=534127897720520741&permissions=0&scope=bot
